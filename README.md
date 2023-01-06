@@ -1,6 +1,6 @@
 # merge-together
 
-This 
+This
 Is
-Some
+good
 Text
